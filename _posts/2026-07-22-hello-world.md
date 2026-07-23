@@ -4,4 +4,5 @@ title: "Hello World"
 date: 2026-07-22
 ---
 
-First post. More to come.
+This is my first post.
+More to come as I figure this out
