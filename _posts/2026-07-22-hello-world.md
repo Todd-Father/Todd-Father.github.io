@@ -4,5 +4,4 @@ title: "Hello World"
 date: 2026-07-22
 ---
 
-This is my first post.
-More to come as I figure this out
+Today is Friday, 81 degrees and the sun is shining.Vastly different than most mornings the last week with the tropical storm bringing winds and blowing rain.  All 7 grandkids are here today half of them begging to be held or taken outside or speaking a little people language that these old ears have a hard time understanding.
